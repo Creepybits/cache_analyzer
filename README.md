@@ -1,4 +1,4 @@
-# cache_analyzer
+# Cache Analyzer
 Analyzes and shows the cache size of Hugging Face, Triton, Pytorch and pip
 ___
 
@@ -20,4 +20,6 @@ If you find that, for example, Hugging Face is taking up too much of your system
 
 ![Skärmbild 2025-06-28 144018](https://github.com/user-attachments/assets/d1d83209-28a5-4dbe-b9dc-5e4fbb3d186a)
 
-Click _OK_ to save and exit.
+Click _OK_ to save and exit.  
+
+**Optional**: Verify the new location by opening a new Powershell window and type `echo $env:HF_HOME`  
